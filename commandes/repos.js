@@ -31,8 +31,8 @@ this is* *HANS_MD .*\n support our channel *by*,  https://chat.whatsapp.com/Ia4V
 ││ 🧧 *FORKS:* ${repoInfo.forks}
 ││ 📅 *RELEASE DATE:* ${releaseDate}
 ││🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-││ 👨‍💻 *OWNER:* *YESSER tech*
-││ 💞 *THEME:* *YESSER BOY*
+││ 👨‍💻 *OWNER:* *HANS tech*
+││ 💞 *THEME:* *HANS BOY*
 ││ 🥰 *ENJOY TO USE YESSER MD *
 │╰────────────────────➳
 │╭──────────────────❍ 
