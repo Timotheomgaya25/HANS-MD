@@ -14,13 +14,13 @@
 
 </p>
   <p align="center">
-<a href="https://github.com/𝙏𝙄𝙈𝙉𝘼𝙎𝘼/𝙏𝙄𝙈𝙉𝘼𝙎𝘼-𝙈𝘿><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
+<a href="https://github.com/𝙏𝙄𝙈𝙉𝘼𝙎𝘼/𝙏𝙄𝙈𝙉𝘼𝙎𝘼-𝙈𝘿><img title="Followers" src="https://files.catbox.moe/xosv2l.jpg/followers/Fred1e?label=Followers&style=social"></a>
 <a href="https://github.com/Fred1e/lucky_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/lucky_md?&style=social"></a>
 <a href="https://github.com/𝙏𝙄𝙈𝙉𝘼𝙎𝘼/𝙏𝙄𝙈𝙉𝘼𝙎𝘼-𝙈𝘿"><img title="Forks" src="https://github.com/𝙏𝙄𝙈𝙉𝙎𝘼/𝙏𝙄𝙈𝙉𝘼𝙎𝘼-𝙈𝘿"></a>
 <a href="https://github.com/𝙏𝙄𝙈𝙉𝘼𝙎𝘼/𝙏𝙄𝙈𝙉𝘼𝙎𝘼-𝙈𝘿"><img title="Watching" src="https://github.com/𝙏𝙄𝙈𝙉𝘼𝙎𝘼/𝙏𝙄𝙈𝙉𝘼𝙎𝘼-𝙈𝘿"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Lucky_md :: Visitor's Count"/></p>
+<p align="center"><img src="https://files.catbox.moe/xosv2l.jpg.glitch.me/{Fred1e}/count.svg" alt="Lucky_md :: Visitor's Count"/></p>
 
 </a>
   <div align="center">
@@ -30,11 +30,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/HANSTZ3/HANS-MD"><b>𝙏𝙄𝙈𝙉𝘼𝙎𝘼 𝙈𝘿 𝙈𝙑</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/TiMNASA/TMNASA-MD"><b>𝙏𝙄𝙈𝙉𝘼𝙎𝘼 𝙈𝘿 𝙈𝙑</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://youtu.be/izoxfW3anrU"><img src="https://files.catbox.moe/xosv2l.jpg/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
 
