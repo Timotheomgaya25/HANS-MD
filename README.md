@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+timnasa+md+BOT+CREATED+BY+timnasa+T
-md+timnasa Fork+Me+Please" alt="Typing SVG" /></a>
+md+timnasa+ Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -97,7 +97,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
  
-<a href="https://hassantztech1-211e2de2dcca.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://andbad-qr.onrender.com/-211e2de2dcca.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 [`app2`](https://lucky-md-qycm.onrender.com) 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
