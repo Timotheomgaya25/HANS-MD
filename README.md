@@ -150,6 +150,6 @@ The WhatsApp Bot 𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗠𝗗 𝕍1 made in Tanzania by
  
 ★THANK YOU GOD FOR THAT MOMENT🙏. ©
 
-     
+        ☆☆☆☆☆☆☆TIMNASA-TECH☆☆☆☆☆☆☆
 
 
